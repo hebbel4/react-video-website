@@ -1,5 +1,7 @@
 # React Video Website
 
+This project is written in React. It allows users to search Youtube videos in real-time, and when user clicks video in the video list on the right, the clicked video will replace the main video on the left and can be viewed.
+
 ## Getting Started
 
 ```
